@@ -104,7 +104,11 @@ When Switch is in ON state:
 
  ![Screenshot 2023-04-24 214101](https://user-images.githubusercontent.com/118348224/234056887-b3b929f6-4267-4281-bd3e-70a27e1cb17c.png)
 
- 
+## Circuit diagram:
+
+![Screenshot 2023-04-25 152236](https://user-images.githubusercontent.com/118348224/234241424-b1b76013-0cf6-4719-a035-e10fbc8937f3.png)
+
+
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
 
